@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Tajato/react-wejamming.git/static/css/main.5a5fb54d.chunk.css",
+    "main.js": "/Tajato/react-wejamming.git/static/js/main.ac989081.chunk.js",
+    "main.js.map": "/Tajato/react-wejamming.git/static/js/main.ac989081.chunk.js.map",
+    "runtime-main.js": "/Tajato/react-wejamming.git/static/js/runtime-main.c4fb85a3.js",
+    "runtime-main.js.map": "/Tajato/react-wejamming.git/static/js/runtime-main.c4fb85a3.js.map",
+    "static/js/2.c7ccb8fd.chunk.js": "/Tajato/react-wejamming.git/static/js/2.c7ccb8fd.chunk.js",
+    "static/js/2.c7ccb8fd.chunk.js.map": "/Tajato/react-wejamming.git/static/js/2.c7ccb8fd.chunk.js.map",
+    "static/js/3.9028d671.chunk.js": "/Tajato/react-wejamming.git/static/js/3.9028d671.chunk.js",
+    "static/js/3.9028d671.chunk.js.map": "/Tajato/react-wejamming.git/static/js/3.9028d671.chunk.js.map",
+    "index.html": "/Tajato/react-wejamming.git/index.html",
+    "static/css/main.5a5fb54d.chunk.css.map": "/Tajato/react-wejamming.git/static/css/main.5a5fb54d.chunk.css.map",
+    "static/js/2.c7ccb8fd.chunk.js.LICENSE.txt": "/Tajato/react-wejamming.git/static/js/2.c7ccb8fd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Tajato/react-wejamming.git/static/media/background_photo_desktop.a0687f3f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4fb85a3.js",
+    "static/js/2.c7ccb8fd.chunk.js",
+    "static/css/main.5a5fb54d.chunk.css",
+    "static/js/main.ac989081.chunk.js"
+  ]
+}
